@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/valentines2k25/precache-manifest.98c4e050789163e3f4aee34be21d96ad.js"
+  "/valentines2k25/precache-manifest.e6fd75d301acbc15e81a2c9a93d996e6.js"
 );
 
 self.addEventListener('message', (event) => {
