@@ -7,6 +7,7 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
+    "web-vitals": "^4.2.4",
     "workbox-core": "^7.3.0",
     "workbox-precaching": "^7.3.0",
     "workbox-routing": "^7.3.0",
@@ -41,6 +42,5 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-
   "homepage": "https://arthurdbpt.github.io/valentines2k25/"
 }
