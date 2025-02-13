@@ -20,7 +20,7 @@
 .footer {
   color : #FF0062;
   text-align: center;
-  margin-top: 40px;
+  margin-top: 80px;
 }
 
 .custom-button {
@@ -32,6 +32,10 @@
   border-radius: 8px;
   cursor: pointer;
   transition: background-color 0.3s ease, transform 0.2s ease;
+
+  font-family: "Ms Madi", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .custom-button:hover {
