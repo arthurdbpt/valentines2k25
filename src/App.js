@@ -12,11 +12,11 @@ const data = [
 ];
 
 const prizeMessages = [
-  "Awesome, you've won a fantastic 40L duffel bag.",
-  "Amazing! We're gonna have the same bag !",
-  "Lucky you! You've won a cool 36L duffel bag.",
-  "Fantastic! You've won the huge one ! 50L !",
-  "Wow! You've won an classy little bag."
+  "Awesome, you've won a fantastic 40L duffel bag!",
+  "Amazing! We're gonna have the same bag!",
+  "Lucky you! You've won a cool 36L duffel bag!",
+  "Fantastic! You've won the huge one! 50L!",
+  "Wow! You've won a classy little bag!"
 ];
 
 const prizeImages = [
